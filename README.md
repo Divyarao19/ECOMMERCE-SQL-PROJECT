@@ -1,2 +1,8 @@
 # ECOMMERCE-SQL-PROJECT
 SQL queries and analysis for an Ecommerce project using MySQL.
+# Features Used
+SELECT, WHERE, ORDER BY
+JOINS 
+GROUP BY, AGGREGATE FUNCTIONS(SUM, AVG)
+SUBQUERIES
+VIEWS AND INDEXES
